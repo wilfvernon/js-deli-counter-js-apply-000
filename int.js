@@ -6,3 +6,4 @@ function takeANumber (line){
   console.log(`Welcome, you are number ` + (queue-1) ` in line.`)
 }
 
+takeANumber(arr)
