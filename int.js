@@ -7,6 +7,3 @@ function takeANumber (line){
 }
 
 takeANumber(arr)
-takeANumber(arr)
-takeANumber(arr)
-takeANumber(arr)
