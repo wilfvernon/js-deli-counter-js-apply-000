@@ -1,6 +1,6 @@
-function takeANumber (line, num){
+function takeANumber (line){
   var queue = 1;
-  line.push(num)
+  line.push(queue)
   queue++;
-  console.log(`Welcome, you are number ${num} in line.`)
+  console.log(`Welcome, you are number ${queue} in line.`)
 }
